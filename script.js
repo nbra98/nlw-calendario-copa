@@ -33,6 +33,6 @@ document.querySelector('#cards').innerHTML =
                 criarJogo("portugal", "16h00", "uruguay"))+
             
             criarCard("02/12", "Sexta-Feira", criarJogo("coreia-sul", "12h00", "portugal") +
-                criarJogo("Gana", "12h00", "uruguay",) +
+                criarJogo("gana", "12h00", "uruguay",) +
                 criarJogo("servia", "16h00", "suica") +
                 criarJogo("camaroes", "16h00", "brasil"))

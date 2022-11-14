@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O NLW Copa é um projeto que apresentda dinamicamente o calendário com os dias dos jogos da seleção brasileira.
 
-## 🔖 Layout 🔖
+## 🔖 Layout 
 
 Você pode visualizar o layout do projeto através desse [_link_](https://www.figma.com/file/1Q7c6UCuVoaJgOyRwgaUyW/Calend%C3%A1rio-de-Jogos-(Community)-(Community)?node-id=301%3A1812). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
