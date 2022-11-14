@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O NLW Copa é um projeto que apresentda dinamicamente o calendário com os dias dos jogos da seleção brasileira.
+O NLW Copa é um projeto que apresenta dinamicamente o calendário com os dias dos jogos da seleção brasileira.
 
 ## 🔖 Layout 
 
