@@ -11,7 +11,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
   <a href="#memo-licença">Licença</a>
 </p>
 
-<h2 align="center">Meu 2º projeto em Desenvolvimento Front-End ​​💻​​</h2><br>
+<h2 align="center">Meu 2º Projeto em Desenvolvimento Front-End ​​💻​​</h2><br>
 
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
